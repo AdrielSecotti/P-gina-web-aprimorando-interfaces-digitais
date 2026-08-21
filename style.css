@@ -15,8 +15,8 @@
         padding: 16px; 
 }
     img{
-        width:30px;
-        height:15px;
+        width:150px;
+        height:auto;
 }
     .artigo-autor{
         font-weight: bold;
